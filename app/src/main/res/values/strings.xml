@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sake House</string>
+    <string name="bio_text">The Best Sushi &amp; Grill Restaurant!Our restaurant offers a wide array of fine Japanese fusion cuisine created by our special Saka Saka Cheifs.</string>
+    <string name="title_text">Sake House</string>
+    <string name="start_btn_text">Tap to Enjoy!</string>
+    <string name="start_btn_toast">This is the first step to a new beginning!</string>
+</resources>
